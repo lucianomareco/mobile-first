@@ -11,5 +11,4 @@ Desarrollo de Landing Page con HTML y CSS a partir de UI generado en figma. Vea 
 
 ## Resultado final
 
-
-![](./assets/imgs/ui-mobile-design.png)
+Vea el resultado final de la landing page <a href="https://lucianomareco.github.io/mobile-first/">aqui</a>.
